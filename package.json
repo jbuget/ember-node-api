@@ -1,0 +1,19 @@
+{
+  "name": "test-fortunejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Pix",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fortune": "^5.5.17",
+    "fortune-http": "^1.2.25",
+    "fortune-json-api": "^2.1.5",
+    "fortune-postgres": "^1.6.10"
+  }
+}

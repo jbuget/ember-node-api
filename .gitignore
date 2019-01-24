@@ -1,0 +1,11 @@
+.idea
+*.iml
+tmp
+dist
+build
+.history
+.vscode
+.atom
+.bracket
+node_modules
+bower_components
