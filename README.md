@@ -1,4 +1,4 @@
-# Experiment of using Fortune.js as a back-end for Ember Data
+# Ember Node API
 
 The goal of this project if to try Fortune.js in order to make a _productive_ API for an Ember.js / Ember Data front-end application.
 
